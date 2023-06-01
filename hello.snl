@@ -1,0 +1,10 @@
+program hello
+var char a;
+    integer i;
+begin
+  read(a);
+  while a < 10 do
+    i := i + 1;
+    write(a)
+  endwh
+end.
